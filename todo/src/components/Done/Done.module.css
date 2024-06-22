@@ -1,0 +1,16 @@
+.text {
+  color: green;
+}
+
+.inner {
+  width: 100%;
+  max-width: 432px;
+  background-color: #15101c;
+
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+
+  border-radius: 10px;
+}

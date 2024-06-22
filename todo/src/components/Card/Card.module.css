@@ -1,0 +1,23 @@
+.inner {
+  width: 100%;
+  max-width: 432px;
+  background-color: #15101c;
+  color: #fff;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+
+  border-radius: 10px;
+}
+
+.block {
+  display: flex;
+  align-items: center;
+}
+
+.img {
+  cursor: pointer;
+  width: 40px;
+  height: 40px;
+}
